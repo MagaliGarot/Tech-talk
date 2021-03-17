@@ -2,7 +2,7 @@
 
 ## 📋 Subject 
 * AWS
-* BootStrap
+* BootStrap : https://github.com/MagaliGarot/Tech-talk/blob/master/BootStrap.pdf
 * Canvas
 * Arduino
 
@@ -11,8 +11,6 @@
 Réalisations et présentations de 4 veilles chez BeCode Liège.
 
 ![<Visuel>](capture.png)
-
-## 📁 PDF des veilles :
 
 ## 🖊 A propos :
 
