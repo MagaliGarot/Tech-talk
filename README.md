@@ -1,10 +1,10 @@
 # 📽️ Veille / Tech talk 
 
 ## 📋 Subject 
-* AWS
+* AWS : https://github.com/MagaliGarot/Tech-talk/blob/master/AWS.pdf
 * BootStrap : https://github.com/MagaliGarot/Tech-talk/blob/master/BootStrap.pdf
-* Canvas
-* Arduino
+* Canvas : https://github.com/MagaliGarot/Tech-talk/blob/master/Canvas.pdf
+* Arduino : https://github.com/MagaliGarot/Tech-talk/blob/master/Arduino.pdf
 
 # 🗒Le projet :
 
